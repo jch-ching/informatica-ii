@@ -2,6 +2,8 @@
 
 Material clase a clase. Cada carpeta contiene los scripts vistos en clase.
 
-| Clase | Fecha | Tema |
-|-------|-------|------|
-| [clase-01](clase-01/) | _Pendiente_ | _Pendiente_ |
+| Clase | Tema |
+|-------|------|
+| clase-01 | Git |
+| clase-02 | Github |
+| [clase-03](clase-03/) | _pendiente_ |
