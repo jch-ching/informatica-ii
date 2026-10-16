@@ -15,3 +15,11 @@ La numeración continúa la del primer cuatrimestre (que terminó en la clase 11
 | [clase-17](clase-17/) | Memoria dinámica en C++ y destructores: `new`/`delete` y `new[]`/`delete[]`, puntero colgante y fugas con `new`, el destructor; `miVector` y `miString` (memoria pedida en el constructor y liberada en el destructor, objetos creados con `new`) |
 | [clase-18](clase-18/) | Listas simplemente enlazadas, parte 1: `Nodo` y `Lista`, `crearLista`, recorrer, destructor, insertar al principio y al final |
 | [clase-21](clase-21/) | Referencias en C++ (clase grabada): categorías de valor (lvalue/rvalue), referencias lvalue y `const`, transferencia por referencia vs por dirección, punteros por referencia, `return` por referencia; cierre con `Punto` (devolver un atributo por valor, por referencia y por referencia `const`) y `sumar` (sobrecargas: el resultado por valor, por dirección o por referencia) |
+
+## Material extra
+
+Carpetas que no siguen el esquema clase-a-clase.
+
+| Carpeta | Tema |
+|---------|------|
+| [Practica-Preparcial](Practica-Preparcial/) | **Práctica previa al 2º parcial** — red de sensores en una lista simple enlazada ordenada por batería, cargada desde un archivo binario (`fopen`/`fread`, `insertarOrdenado`, borrado de varios nodos seguidos). Enunciado + solución; la primera parte está resuelta en video. |
