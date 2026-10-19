@@ -13,7 +13,8 @@ La numeración continúa la del primer cuatrimestre (que terminó en la clase 11
 | [clase-15](clase-15/) | Interrupciones de hardware: pines de interrupción externa y `digitalPinToInterrupt()`, la ISR y qué no va adentro, `volatile` y sección crítica, y cómo la interrupción se conecta con la MEF del antirrebote sin tocar la aplicación (Wokwi, Mega 2560) |
 | [clase-16](clase-16/) | Introducción a C++: flujos `cout`/`cin`, varios archivos y header guards, `std::`, clases (`private`/`public`, encapsulamiento) y constructores (predeterminado, por parámetros, valores por defecto); cierre con el botón de la clase 14 como `class Boton` (Wokwi) |
 | [clase-17](clase-17/) | Memoria dinámica en C++ y destructores: `new`/`delete` y `new[]`/`delete[]`, puntero colgante y fugas con `new`, el destructor; `miVector` y `miString` (memoria pedida en el constructor y liberada en el destructor, objetos creados con `new`) |
-| [clase-18](clase-18/) | Listas simplemente enlazadas, parte 1: `Nodo` y `Lista`, `crearLista`, recorrer, destructor, insertar al principio y al final |
+| [clase-18](clase-18/) | Listas simplemente enlazadas, parte 1: `Nodo` y `Lista`, `crearLista` y recorrer, destructor, insertar al principio y al final |
+| [clase-19](clase-19/) | Listas simplemente enlazadas, parte 2: insertar antes y después de un nodo, buscar, borrar un nodo y todas las ocurrencias (errores por `cerr`); lista ordenada (`insertarOrdenado`); lista doblemente enlazada (`NodoDoble`, insertar, buscar por posición, eliminar) |
 | [clase-21](clase-21/) | Referencias en C++ (clase grabada): categorías de valor (lvalue/rvalue), referencias lvalue y `const`, transferencia por referencia vs por dirección, punteros por referencia, `return` por referencia; cierre con `Punto` (devolver un atributo por valor, por referencia y por referencia `const`) y `sumar` (sobrecargas: el resultado por valor, por dirección o por referencia) |
 
 ## Material extra
